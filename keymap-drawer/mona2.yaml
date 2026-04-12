@@ -130,48 +130,48 @@ layers:
   - {t: ▽, type: trans}
   - '@'
   '3':
-  - {t: ▽, type: trans}
-  - Ctl+Sft+TAB
-  - PRINTSCREEN
-  - Ctl+TAB
-  - {t: ▽, type: trans}
+  - Q
+  - W
+  - E
+  - R
+  - T
   - {t: ▽, type: trans}
   - HOME
+  - I
+  - O
+  - BACKSPACE
+  - A
+  - S
+  - D
+  - F
+  - G
   - UP ARROW
-  - END
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - Gui+LEFT ARROW
-  - Gui+RIGHT ARROW
-  - Ctl+Gui+LEFT ARROW
-  - Ctl+Gui+RIGHT ARROW
-  - {t: ▽, type: trans}
   - {type: held}
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ENTER
   - LEFT SHIFT
-  - Gui+Sft+LEFT ARROW
-  - Gui+Sft+RIGHT ARROW
+  - M
+  - F2
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - CAPS
+  - DOWN ARROW
   - {t: ▽, type: trans}
   - DELETE
   - PAGE UP
   - PAGE DOWN
+  - Ctl+V
+  - LEFT CONTROL
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT ALT
+  - LEFT ARROW
+  - SPACE
+  - RIGHT ARROW
+  - SPACE
+  - SPACE
+  - Ctl+C
   '5':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
