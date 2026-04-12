@@ -25,8 +25,8 @@ layers:
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
-  - V
-  - B
+  - {t: V, h: '4'}
+  - {t: B, h: '3'}
   - {t: CAPS, h: ESCAPE}
   - DOWN ARROW
   - N
@@ -283,7 +283,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&bootloader'
