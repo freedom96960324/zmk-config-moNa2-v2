@@ -53,33 +53,33 @@ layers:
   - '7'
   - '8'
   - '9'
+  - {t: '0', h: '!'}
+  - '6'
+  - '7'
+  - '8'
+  - '9'
   - '0'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '['
-  - ']'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - (
-  - )
-  - {t: ▽, type: trans}
-  - \
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F10
+  - F11
+  - F12
+  - F13
+  - '?'
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '|'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '='
+  - F7
+  - F8
+  - F9
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
