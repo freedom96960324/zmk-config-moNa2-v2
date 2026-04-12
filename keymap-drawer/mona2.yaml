@@ -16,8 +16,8 @@ layers:
   - D
   - F
   - G
-  - F13
-  - H
+  - UP ARROW
+  - {t: H, h: '3'}
   - J
   - K
   - L
@@ -28,7 +28,7 @@ layers:
   - V
   - B
   - F14
-  - F15
+  - DOWN ARROW
   - N
   - M
   - ','
@@ -40,8 +40,8 @@ layers:
   - BACKSPACE
   - {t: ENTER, h: '2'}
   - {t: '&to_layer_0 LANG2', h: '3'}
-  - {t: '&to_layer_0 LANG1', h: '3'}
-  - {t: SPACE, h: '1'}
+  - BACKSPACE
+  - {t: SPACE, h: '3'}
   - Ctl+C
   '1':
   - '1'
@@ -84,7 +84,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '2':
   - '!'
@@ -146,7 +146,7 @@ layers:
   - Ctl+Gui+LEFT ARROW
   - Ctl+Gui+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
@@ -168,7 +168,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
