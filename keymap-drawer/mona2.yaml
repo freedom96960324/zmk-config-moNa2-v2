@@ -27,7 +27,7 @@ layers:
   - C
   - V
   - B
-  - F14
+  - {t: CAPS, h: ESCAPE}
   - DOWN ARROW
   - N
   - M
@@ -35,11 +35,11 @@ layers:
   - .
   - Ctl+V
   - LCTRL
-  - LEFT WIN
-  - F16
-  - BACKSPACE
-  - {t: ENTER, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '3'}
+  - LEFT SHIFT
+  - LEFT ALT
+  - {t: LEFT ARROW, h: '1'}
+  - {t: SPACE, h: '2'}
+  - {t: '&to_layer_0 RIGHT_ARROW', h: '6'}
   - BACKSPACE
   - {t: SPACE, h: '3'}
   - Ctl+C
@@ -80,7 +80,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -297,7 +297,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
