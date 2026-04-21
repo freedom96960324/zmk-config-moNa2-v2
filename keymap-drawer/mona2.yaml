@@ -10,7 +10,7 @@ layers:
   - U
   - I
   - O
-  - {t: P, h: BACKSPACE}
+  - {t: P, h: '!'}
   - A
   - S
   - D
@@ -21,7 +21,7 @@ layers:
   - J
   - K
   - L
-  - {t: '-', h: ENTER}
+  - {t: '-', h: '?'}
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
