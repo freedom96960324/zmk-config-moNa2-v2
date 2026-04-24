@@ -26,7 +26,7 @@ layers:
   - X
   - C
   - {t: V, h: '6'}
-  - {t: B, h: '3'}
+  - {t: B, h: '6'}
   - {t: CAPS, h: ESCAPE}
   - DOWN ARROW
   - N
@@ -241,7 +241,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - '&bootloader'
   - {t: ▽, type: trans}
