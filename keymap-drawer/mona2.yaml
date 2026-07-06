@@ -22,7 +22,7 @@ layers:
   - K
   - L
   - {t: '-', h: '?'}
-  - {t: Z, h: LEFT GUI}
+  - {t: Z, h: LEFT CONTROL}
   - X
   - C
   - {t: V, h: '6'}
@@ -35,7 +35,7 @@ layers:
   - .
   - Gui+V
   - LCTRL
-  - LEFT GUI
+  - LEFT CONTROL
   - LEFT ALT
   - {t: LEFT ARROW, h: '1'}
   - {t: SPACE, h: '2'}
