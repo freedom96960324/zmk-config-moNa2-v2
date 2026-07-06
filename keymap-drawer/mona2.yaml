@@ -27,13 +27,13 @@ layers:
   - C
   - {t: V, h: '6'}
   - {t: B, h: '6'}
-  - {t: CAPS, h: ESCAPE}
+  - CAPSLOCK
   - DOWN ARROW
   - N
   - M
   - ','
   - .
-  - Ctl+V
+  - Gui+V
   - LCTRL
   - LEFT SHIFT
   - LEFT ALT
@@ -42,7 +42,7 @@ layers:
   - {t: RIGHT ARROW, h: '5', type: held}
   - {t: BACKSPACE, type: held}
   - {t: ENTER, h: '3'}
-  - Ctl+C
+  - Gui+C
   '1':
   - '1'
   - '2'
