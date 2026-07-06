@@ -34,8 +34,8 @@ layers:
   - ','
   - .
   - Gui+V
+  - LEFT SHIFT
   - LEFT GUI
-  - LEFT CONTROL
   - LEFT ALT
   - {t: LEFT ARROW, h: '1'}
   - {t: SPACE, h: '2'}
