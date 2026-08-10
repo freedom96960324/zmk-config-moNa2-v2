@@ -182,7 +182,7 @@ layers:
   - '&mkp LCLK'
   - '&mkp RCLK'
   - '&mkp RCLK'
-  - BACKSPACE
+  - {t: ▽, type: trans}
   - A
   - S
   - D
@@ -193,7 +193,7 @@ layers:
   - '&mkp LCLK'
   - '&mkp RCLK'
   - '&mkp RCLK'
-  - ENTER
+  - {t: ▽, type: trans}
   - Z
   - X
   - C
