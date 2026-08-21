@@ -39,8 +39,8 @@ layers:
   - LEFT ALT
   - {t: LEFT ARROW, h: '1'}
   - {t: SPACE, h: '2'}
-  - {t: RIGHT ARROW, h: '5', type: held}
-  - {t: BACKSPACE, type: held}
+  - {t: RIGHT ARROW, h: '5'}
+  - BACKSPACE
   - {t: ENTER, h: '3'}
   - Ctl+C
   '1':
@@ -259,7 +259,7 @@ layers:
   - {t: ▽, type: trans}
   - BT CLR ALL
 combos:
-- p: [39, 38]
-  k: {t: ESC, h: default}
-- p: [11, 12]
-  k: TAB
+- p: [17, 18]
+  k: '&mkp LCLK'
+- p: [13, 12]
+  k: CAPSLOCK
