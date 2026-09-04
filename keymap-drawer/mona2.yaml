@@ -41,7 +41,7 @@ layers:
   - {t: SPACE, h: '2'}
   - {t: RIGHT ARROW, h: '5'}
   - BACKSPACE
-  - {t: ENTER, h: '3'}
+  - ENTER
   - Ctl+C
   '1':
   - '1'
