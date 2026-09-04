@@ -111,7 +111,7 @@
             bindings = <
 &kp Q             &kp W   &kp E         &kp R           &kp T                                         &trans     &kp HOME        &kp I           &kp O            &kp BACKSPACE
 &kp A             &kp S   &kp D         &kp F           &kp G                         &kp UP_ARROW    &trans     &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp ENTER
-&kp LEFT_SHIFT    &kp M   &kp F2        &trans          &trans     &kp CAPS           &kp DOWN_ARROW  &trans     &kp DELETE      &kp PAGE_UP     &kp PAGE_DOWN    &kp RC(V)
+&kp LEFT_SHIFT    &kp M   &kp F2        &trans          &trans     &kp CAPS           &kp DOWN_ARROW  &trans     &kp DELETE      &trans          &trans           &kp RC(V)
 &kp LEFT_CONTROL  &trans  &kp LEFT_ALT  &kp LEFT_ARROW  &kp SPACE  &kp RIGHT_ARROW    &kp SPACE       &kp SPACE                                                   &kp RC(C)
             >;
 
