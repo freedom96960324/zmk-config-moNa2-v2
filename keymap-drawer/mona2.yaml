@@ -80,7 +80,7 @@ layers:
   - F7
   - F8
   - F9
-  - {type: held}
+  - {t: F10, type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
