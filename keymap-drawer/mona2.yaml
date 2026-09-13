@@ -79,7 +79,7 @@ layers:
   - '='
   - F7
   - F8
-  - {t: ▽, type: trans}
+  - F9
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
