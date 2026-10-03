@@ -33,6 +33,16 @@
             bindings = <&kp CAPSLOCK>;
             key-positions = <13 12>;
         };
+
+        ctrl.c {
+            bindings = <&kp LC(C)>;
+            key-positions = <2 3>;
+        };
+
+        ctrl.v {
+            bindings = <&kp RC(V)>;
+            key-positions = <7 6>;
+        };
     };
 
     macros {
