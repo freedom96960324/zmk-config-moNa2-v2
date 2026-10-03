@@ -306,3 +306,7 @@ combos:
   k: '&mkp LCLK'
 - p: [13, 12]
   k: CAPSLOCK
+- p: [2, 3]
+  k: Ctl+C
+- p: [7, 6]
+  k: Ctl+V

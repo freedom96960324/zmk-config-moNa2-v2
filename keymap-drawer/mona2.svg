@@ -334,6 +334,14 @@ path.combo {
 <rect rx="6" ry="6" x="154" y="71" width="28" height="26" class="combo"/>
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="154" y="15" width="28" height="26" class="combo"/>
+<text x="168" y="28" class="combo tap">Ctl+C</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">Ctl+V</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 280)" class="layer-number">
@@ -520,6 +528,14 @@ path.combo {
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="154" y="71" width="28" height="26" class="combo"/>
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="154" y="15" width="28" height="26" class="combo"/>
+<text x="168" y="28" class="combo tap">Ctl+C</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">Ctl+V</text>
 </g>
 </g>
 </g>
@@ -708,6 +724,14 @@ path.combo {
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="154" y="71" width="28" height="26" class="combo"/>
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="154" y="15" width="28" height="26" class="combo"/>
+<text x="168" y="28" class="combo tap">Ctl+C</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">Ctl+V</text>
 </g>
 </g>
 </g>
@@ -910,6 +934,14 @@ path.combo {
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="154" y="71" width="28" height="26" class="combo"/>
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="154" y="15" width="28" height="26" class="combo"/>
+<text x="168" y="28" class="combo tap">Ctl+C</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">Ctl+V</text>
 </g>
 </g>
 </g>
@@ -1126,6 +1158,14 @@ path.combo {
 <rect rx="6" ry="6" x="154" y="71" width="28" height="26" class="combo"/>
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="154" y="15" width="28" height="26" class="combo"/>
+<text x="168" y="28" class="combo tap">Ctl+C</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">Ctl+V</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1400)" class="layer-6">
@@ -1308,6 +1348,14 @@ path.combo {
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="154" y="71" width="28" height="26" class="combo"/>
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="154" y="15" width="28" height="26" class="combo"/>
+<text x="168" y="28" class="combo tap">Ctl+C</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">Ctl+V</text>
 </g>
 </g>
 </g>
@@ -1499,6 +1547,14 @@ path.combo {
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="154" y="71" width="28" height="26" class="combo"/>
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
+</g>
+<g class="combo combopos-2">
+<rect rx="6" ry="6" x="154" y="15" width="28" height="26" class="combo"/>
+<text x="168" y="28" class="combo tap">Ctl+C</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">Ctl+V</text>
 </g>
 </g>
 </g>
