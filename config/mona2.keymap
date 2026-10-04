@@ -43,6 +43,11 @@
             bindings = <&kp RC(V)>;
             key-positions = <7 6>;
         };
+
+        escape {
+            bindings = <&kp ESCAPE>;
+            key-positions = <0 1>;
+        };
     };
 
     macros {
