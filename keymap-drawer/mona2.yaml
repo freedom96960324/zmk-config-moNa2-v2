@@ -310,3 +310,5 @@ combos:
   k: Ctl+C
 - p: [7, 6]
   k: Ctl+V
+- p: [0, 1]
+  k: ESCAPE
