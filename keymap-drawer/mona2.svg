@@ -335,10 +335,6 @@ path.combo {
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
-<text x="560" y="28" class="combo tap">Ctl+V</text>
-</g>
-<g class="combo combopos-3">
 <path d="M364,28 l-317,0" class="combo"/>
 <path d="M364,28 l317,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="15" width="28" height="26" class="combo"/>
@@ -532,10 +528,6 @@ path.combo {
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
-<text x="560" y="28" class="combo tap">Ctl+V</text>
-</g>
-<g class="combo combopos-3">
 <path d="M364,28 l-317,0" class="combo"/>
 <path d="M364,28 l317,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="15" width="28" height="26" class="combo"/>
@@ -730,10 +722,6 @@ path.combo {
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
-<text x="560" y="28" class="combo tap">Ctl+V</text>
-</g>
-<g class="combo combopos-3">
 <path d="M364,28 l-317,0" class="combo"/>
 <path d="M364,28 l317,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="15" width="28" height="26" class="combo"/>
@@ -942,10 +930,6 @@ path.combo {
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
-<text x="560" y="28" class="combo tap">Ctl+V</text>
-</g>
-<g class="combo combopos-3">
 <path d="M364,28 l-317,0" class="combo"/>
 <path d="M364,28 l317,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="15" width="28" height="26" class="combo"/>
@@ -1167,10 +1151,6 @@ path.combo {
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
-<text x="560" y="28" class="combo tap">Ctl+V</text>
-</g>
-<g class="combo combopos-3">
 <path d="M364,28 l-317,0" class="combo"/>
 <path d="M364,28 l317,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="15" width="28" height="26" class="combo"/>
@@ -1360,10 +1340,6 @@ path.combo {
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
-<text x="560" y="28" class="combo tap">Ctl+V</text>
-</g>
-<g class="combo combopos-3">
 <path d="M364,28 l-317,0" class="combo"/>
 <path d="M364,28 l317,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="15" width="28" height="26" class="combo"/>
@@ -1561,10 +1537,6 @@ path.combo {
 <text x="168" y="84" class="combo tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
-<text x="560" y="28" class="combo tap">Ctl+V</text>
-</g>
-<g class="combo combopos-3">
 <path d="M364,28 l-317,0" class="combo"/>
 <path d="M364,28 l317,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="15" width="28" height="26" class="combo"/>

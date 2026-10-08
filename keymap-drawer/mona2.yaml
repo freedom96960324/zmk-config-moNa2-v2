@@ -306,7 +306,5 @@ combos:
   k: '&mkp LCLK'
 - p: [13, 12]
   k: CAPSLOCK
-- p: [7, 6]
-  k: Ctl+V
 - p: [0, 9]
   k: ESCAPE
