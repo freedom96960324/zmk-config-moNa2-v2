@@ -72,7 +72,7 @@ layers:
   - F5
   - F6
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F14
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - +
