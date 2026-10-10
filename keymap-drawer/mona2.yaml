@@ -26,8 +26,8 @@ layers:
   - X
   - C
   - {t: V, h: bluetooth}
-  - {t: B, h: arrow}
-  - CAPS
+  - B
+  - {t: Ctl+V, h: arrow}
   - DOWN ARROW
   - N
   - M
