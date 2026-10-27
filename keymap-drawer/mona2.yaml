@@ -182,7 +182,7 @@ layers:
   - '&mkp LCLK'
   - '&mkp RCLK'
   - '&mkp RCLK'
-  - {t: ▽, type: trans}
+  - '&mkp MCLK'
   - A
   - S
   - D
@@ -193,7 +193,7 @@ layers:
   - '&mkp LCLK'
   - '&mkp RCLK'
   - '&mkp RCLK'
-  - {t: ▽, type: trans}
+  - '&mkp MCLK'
   - Z
   - X
   - C
@@ -201,10 +201,10 @@ layers:
   - B
   - F2
   - DOWN ARROW
-  - '&mkp LCLK'
-  - '&mkp LCLK'
-  - '&mkp RCLK'
-  - '&mkp RCLK'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - M
   - {t: ▽, type: trans}
