@@ -26,8 +26,8 @@ layers:
   - X
   - C
   - {t: V, h: bluetooth}
-  - B
-  - {t: Ctl+V, h: arrow}
+  - {t: B, h: arrow}
+  - {t: LANGUAGE 2, h: LANGUAGE 1}
   - DOWN ARROW
   - N
   - M
@@ -152,8 +152,8 @@ layers:
   - RIGHT ARROW
   - ENTER
   - LEFT SHIFT
-  - M
-  - F2
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - CAPS
@@ -206,7 +206,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - M
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT ARROW
