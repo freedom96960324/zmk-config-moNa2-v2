@@ -27,7 +27,7 @@ layers:
   - C
   - {t: V, h: bluetooth}
   - {t: B, h: arrow}
-  - {t: LANGUAGE 2, h: LANGUAGE 1}
+  - DELETE
   - DOWN ARROW
   - N
   - M
